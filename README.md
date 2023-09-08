@@ -1,3 +1,3 @@
 # jenkins-github
 pushing to jenkins
-Jenkins to git hub push 
+Jenkins to github push 
